@@ -11,5 +11,4 @@ class Spy:
         self.chats = []
         self.current_status_message = None
 
-spy = Spy('Aashish', 'Mr.', 21, 4.7)
-
+spy = Spy('Aashish', 'Mr.', 22, 4.1)
